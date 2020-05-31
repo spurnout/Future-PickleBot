@@ -17,7 +17,7 @@ Made by **HarutoHiroki#4000**
 1. Make a bot [here](https://discordapp.com/developers/applications/me) and grab the token
 ![Image_Example1](https://i.imgur.com/61akydu.png)
 
-2. Fill in the required spots, such as token, prefix and change anything you like in **config.json** and **customisation.json**.
+2. Fill in the required spots, such as token, prefix and change anything you like in **settings.json** and **customisation.json**.
 
 3. To install all needed node modules, do **npm install**
 
